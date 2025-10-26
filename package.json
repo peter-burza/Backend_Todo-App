@@ -1,5 +1,5 @@
 {
-  "name": "projectname",
+  "name": "Backend_Todo-App",
   "version": "1.0.0",
   "description": "A full stack todo app that uses node.js package, a SQLite database and JWT Authentication.",
   "main": "index.js",
